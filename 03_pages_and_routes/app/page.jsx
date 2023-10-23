@@ -7,3 +7,8 @@ export default function Home() {
 }
 
 // about.jsx -> /about
+
+/* 
+page component are all server components by default
+
+*/
